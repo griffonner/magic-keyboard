@@ -1,6 +1,6 @@
 {
   "name": "magic-keyboard",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "magic-keyboard",
   "type": "module",
   "packageManager": "pnpm@8.7.5",
